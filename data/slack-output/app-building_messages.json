@@ -1,0 +1,53 @@
+[
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722177262.997319",
+    "client_msg_id": "ce525aaa-e95f-4d4e-8cb7-1071a62cd898",
+    "text": "Here is a little test",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AYQtR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here is a little test"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07ERBFRAG1",
+    "text": "<@U07ERBFRAG1> has joined the channel",
+    "inviter": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722177254.151709",
+    "user_name": "MsgOutput"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07ED33KX6W",
+    "text": "<@U07ED33KX6W> has joined the channel",
+    "type": "message",
+    "ts": "1722144191.965439",
+    "user_name": "Caleb Campbell"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07E62CA4UE",
+    "text": "<@U07E62CA4UE> has joined the channel",
+    "type": "message",
+    "ts": "1722123899.748659",
+    "user_name": "Owen"
+  }
+]

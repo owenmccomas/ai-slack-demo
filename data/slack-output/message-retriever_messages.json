@@ -1,0 +1,235 @@
+[
+  {
+    "user": "U07ED33KX6W",
+    "type": "message",
+    "ts": "1722144228.014209",
+    "client_msg_id": "947d7b48-4324-4f6c-bc72-7904f4f396fb",
+    "text": "Yeah I definitely changed the schema",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y19WN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I definitely changed the schema"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Caleb Campbell"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07ED33KX6W",
+    "text": "<@U07ED33KX6W> has joined the channel",
+    "type": "message",
+    "ts": "1722144218.282259",
+    "user_name": "Caleb Campbell"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722139692.726109",
+    "client_msg_id": "36c0961e-7def-4b54-b0a8-67087dbf2cf5",
+    "text": "I personally did not change the shema",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DLa7F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I personally did not change the shema"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722139679.040719",
+    "client_msg_id": "236a8041-2283-4e42-9051-604b450a524f",
+    "text": "Adding in another message about how I changed the schema so that I can see the reaction",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hJFJY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Adding in another message about how I changed the schema so that I can see the reaction"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722139254.704299",
+    "client_msg_id": "77ed314d-a9e7-4b2d-950b-216960646694",
+    "text": "Adding more stuff in here",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+mN7g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Adding more stuff in here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722126107.239319",
+    "client_msg_id": "f0a41962-8889-49b3-9a85-0f86874af2e5",
+    "text": "More stuff here in messages for the bot to sort through",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ypylD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "More stuff here in messages for the bot to sort through"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722126089.261259",
+    "client_msg_id": "dba83c7f-6de3-4c39-a19e-7c117d9694d4",
+    "text": "I changed the prisma schema",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3xELV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I changed the prisma schema"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722125529.031429",
+    "client_msg_id": "19843c98-69f4-45cf-83c9-6f7ce9a4bd10",
+    "text": "As is this, a little test as well.",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z5fjD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "As is this, a little test as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "user": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722125519.309549",
+    "client_msg_id": "f9bb26ae-9ef3-4e8f-8c0f-6190f4610517",
+    "text": "This is a little test",
+    "team": "T07ECHLV8P5",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gqNJS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is a little test"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_name": "Owen"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07ERBFRAG1",
+    "text": "<@U07ERBFRAG1> has joined the channel",
+    "inviter": "U07E62CA4UE",
+    "type": "message",
+    "ts": "1722125218.710389",
+    "user_name": "MsgOutput"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07E62CA4UE",
+    "text": "<@U07E62CA4UE> has joined the channel",
+    "type": "message",
+    "ts": "1722125196.286569",
+    "user_name": "Owen"
+  }
+]
